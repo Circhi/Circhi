@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Circhi
 - 👀 I’m interested in all kind of old and new tech stuff
-- 🌱 I’m currently learning to programm in python, html and css
+- 🌱 I’m currently learning python, html and css, building my own website
 
 
 <!---
